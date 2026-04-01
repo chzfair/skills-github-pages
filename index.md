@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Test home page: Welcome to my website!
 ---
